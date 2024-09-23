@@ -7,7 +7,7 @@
   * [Activity 9.1](#activity9.1)
 
 ## <a id="about">About the Project</a>
-This is a portfolio featuring the various projects completed throughout the MIT xPro Data Engineering certification course.
+This is a portfolio featuring the various projects completed throughout the MIT xPro Data Engineering certification course. If you'd like to review the code repository for this page, please go <a href="https://github.com/shaylatheroo/shaylatheroo.github.io">here</a>.
 
 ## <a id="tools">Tools</a>
 Tools used throughout the course include:
